@@ -109,10 +109,10 @@ Stack Navigator
     ├── Disciplinas
     │   └── Módulos
     │       └── Ver Conteúdo
-    ├── Perfil
-    ├── Notas
-    ├── Frequência
-    └── Histórico Escolar
+    └── Perfil
+        ├── Notas
+        ├── Frequência
+        └── Histórico Escolar
 ```
 
 ---
