@@ -1,0 +1,314 @@
+{
+  "Português": [
+    {
+      "titulo": "Leitura e interpretação de textos",
+      "imagem": "https://m.media-amazon.com/images/I/61E5FTy-vJL._SY466_.jpg"
+    },
+    {
+      "titulo": "Gêneros textuais",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIL27L3KBxBxhmtCM39B6ePxAoiQfbKW7t9VsSBklSimtLI0pgyA6uMY1yFq55M9YEOXEI7xJbD1dI8oIr2LKaEfrGAMvp-GqjYC1ODhFugZwAOnmB61ejlR8yCiWHLTCgExnHTZ8b0Uc/s1600/capa.jpg"
+    },
+    {
+      "titulo": "Produção textual",
+      "imagem": "https://i.pinimg.com/736x/c1/9e/52/c19e52aae8a305e20b3bd7480bb8971a.jpg"
+    },
+    {
+      "titulo": "Gramática básica",
+      "imagem": "https://m.media-amazon.com/images/I/61WfhVZwB9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Ortografia e acentuação",
+      "imagem": "https://static.wixstatic.com/media/8bbda5_64ec33d0d02045df904cc558e0d7f3fd~mv2.jpg/v1/fill/w_480,h_650,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8bbda5_64ec33d0d02045df904cc558e0d7f3fd~mv2.jpg"
+    },
+    {
+      "titulo": "Pontuação",
+      "imagem": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/livro-a-pontuacao-da-pontuacao-eduel/oliststore/mglmn4kr1lde4iyw/161927abd742fbf5e0aa221ca7790704.jpeg"
+    }
+  ],
+  "Inglês": [
+    {
+      "titulo": "Leitura e interpretação em inglês",
+      "imagem": "https://cdn.awsli.com.br/2500x2500/2777/2777394/produto/343568876/treineseuingles37-spl7374wr2.jpg"
+    },
+    {
+      "titulo": "Vocabulário básico",
+      "imagem": "https://m.media-amazon.com/images/I/41-CmtOgADL._SY445_SX342_ML2_.jpg"
+    },
+    {
+      "titulo": "Gramática básica",
+      "imagem": "https://m.media-amazon.com/images/I/61O5vbmCCjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Compreensão oral",
+      "imagem": "https://covers.vitalbook.com/vbid/9788550812410/width/480"
+    },
+    {
+      "titulo": "Conversação em inglês",
+      "imagem": "https://m.media-amazon.com/images/I/81CHuILCq9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Produção escrita em inglês",
+      "imagem": "https://m.media-amazon.com/images/I/91pcGpzRQmL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "Literatura": [
+    {
+      "titulo": "Introdução à Literatura",
+      "imagem": "https://m.media-amazon.com/images/I/81x7Gj2ZSeL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Gêneros Literários",
+      "imagem": "https://m.media-amazon.com/images/I/712RMXRUOpL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Figuras de Linguagem",
+      "imagem": "https://s3.amazonaws.com/media.clubedeautores.com.br/cover_images/894780/big_cover_front.png"
+    },
+    {
+      "titulo": "Escolas Literárias",
+      "imagem": "https://i0.wp.com/www.touchelivros.com.br/wp-content/uploads/2025/03/escolas_literarias.jpg"
+    },
+    {
+      "titulo": "Literatura Brasileira",
+      "imagem": "https://m.media-amazon.com/images/I/61iprYuD-wL.jpg"
+    },
+    {
+      "titulo": "Análise de Obras Literárias",
+      "imagem": "https://lojahucitec.com.br/wp-content/uploads/2022/04/obras-lit-filosoficas-morais-capa.png"
+    }
+  ],
+  "Geografia": [
+    {
+      "titulo": "Cartografia",
+      "imagem": "https://m.media-amazon.com/images/I/51twWyuIToL._SY445_SX342_ML2_.jpg"
+    },
+    {
+      "titulo": "Relevo e Hidrografia",
+      "imagem": "https://m.media-amazon.com/images/I/71znkbw6ZEL._SY466_.jpg"
+    },
+    {
+      "titulo": "Clima e Vegetação",
+      "imagem": "https://m.media-amazon.com/images/I/81KwbP6IzoL._SY466_.jpg"
+    },
+    {
+      "titulo": "População e Urbanização",
+      "imagem": "https://m.media-amazon.com/images/I/81Y5sdcQ1TL._SY425_.jpg"
+    },
+    {
+      "titulo": "Economia e Globalização",
+      "imagem": "https://m.media-amazon.com/images/I/61rJBFQn4gL._SY466_.jpg"
+    },
+    {
+      "titulo": "Meio Ambiente e Sustentabilidade",
+      "imagem": "https://m.media-amazon.com/images/I/51S6h3VBUoL._SY466_.jpg"
+    }
+  ],
+  "História": [
+    {
+      "titulo": "Pré-História",
+      "imagem": "https://m.media-amazon.com/images/I/91FXCUe42xL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Antiguidade",
+      "imagem": "https://m.media-amazon.com/images/I/81y1d3YYkfL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Idade Média",
+      "imagem": "https://m.media-amazon.com/images/I/71huxaU4kRL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Idade Moderna",
+      "imagem": "https://m.media-amazon.com/images/I/813ZgeCPK3L._SL1438_.jpg"
+    },
+    {
+      "titulo": "Brasil Colônia",
+      "imagem": "https://m.media-amazon.com/images/I/81zMm2mOlHL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Brasil Império e República",
+      "imagem": "https://m.media-amazon.com/images/I/71LH72aCgTL._SL1438_.jpg"
+    }
+  ],
+  "Química": [
+    {
+      "titulo": "Introdução à Química",
+      "imagem": "https://m.media-amazon.com/images/I/811khGbDVVL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Átomos e Elementos Químicos",
+      "imagem": "https://m.media-amazon.com/images/I/71-LJOj32zL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Tabela Periódica",
+      "imagem": "https://m.media-amazon.com/images/I/71+KfQq-6NL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Ligações Químicas",
+      "imagem": "https://m.media-amazon.com/images/I/71Y-6q9LuML._SL1359_.jpg"
+    },
+    {
+      "titulo": "Reações Químicas",
+      "imagem": "https://m.media-amazon.com/images/I/81nyenhGrXL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Química Orgânica",
+      "imagem": "https://m.media-amazon.com/images/I/71gOXqX2OpL._SL1500_.jpg"
+    }
+  ],
+  "Biologia": [
+    {
+      "titulo": "Citologia",
+      "imagem": "https://m.media-amazon.com/images/I/515m3vR838L.jpg"
+    },
+    {
+      "titulo": "Genética",
+      "imagem": "https://m.media-amazon.com/images/I/81-PC1pxZML._SL1500_.jpg"
+    },
+    {
+      "titulo": "Ecologia",
+      "imagem": "https://m.media-amazon.com/images/I/81bHeBybCtL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Evolução",
+      "imagem": "https://m.media-amazon.com/images/I/71C+AH6C8qL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Anatomia e Fisiologia Humana",
+      "imagem": "https://m.media-amazon.com/images/I/71nn4+alySL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Botânica e Zoologia",
+      "imagem": "https://m.media-amazon.com/images/I/71IIZESq-uL._SL1012_.jpg"
+    }
+  ],
+  "Matemática": [
+    {
+      "titulo": "Números e Operações",
+      "imagem": "https://m.media-amazon.com/images/I/61xzD25OgzL._SL1466_.jpg"
+    },
+    {
+      "titulo": "Álgebra",
+      "imagem": "https://m.media-amazon.com/images/I/51gDy+RThoL.jpg"
+    },
+    {
+      "titulo": "Geometria",
+      "imagem": "https://m.media-amazon.com/images/I/71UxK1PKrgL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Grandezas e Medidas",
+      "imagem": "https://m.media-amazon.com/images/I/71Vzyoivd2L._SL1500_.jpg"
+    },
+    {
+      "titulo": "Probabilidade e Estatística",
+      "imagem": "https://m.media-amazon.com/images/I/41iKu3b56JL.jpg"
+    },
+    {
+      "titulo": "Funções",
+      "imagem": "https://m.media-amazon.com/images/I/71TEShttJIL._SL1500_.jpg"
+    }
+  ],
+  "Física": [
+    {
+      "titulo": "Introdução à Física",
+      "imagem": "https://m.media-amazon.com/images/I/618VRtDelKL._SL1330_.jpg"
+    },
+    {
+      "titulo": "Cinemática",
+      "imagem": "https://m.media-amazon.com/images/I/61GH34R-HuL._SL1040_.jpg"
+    },
+    {
+      "titulo": "Dinâmica",
+      "imagem": "https://m.media-amazon.com/images/I/81JZFQnLhEL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Energia e Trabalho",
+      "imagem": "https://m.media-amazon.com/images/I/81tQ1-KdUBL._SY522_.jpg"
+    },
+    {
+      "titulo": "Termologia",
+      "imagem": "https://m.media-amazon.com/images/I/41N9z2nmwgL._SY445_SX342_ML2_.jpg"
+    },
+    {
+      "titulo": "Eletricidade",
+      "imagem": "https://m.media-amazon.com/images/I/61FfSOJ1S-L._SL1085_.jpg"
+    }
+  ],
+  "Robótica": [
+    {
+      "titulo": "Introdução à Robótica",
+      "imagem": "https://m.media-amazon.com/images/I/61E0e2IfMjL._SL1149_.jpg"
+    },
+    {
+      "titulo": "Componentes Eletrônicos",
+      "imagem": "https://m.media-amazon.com/images/I/51Ga-INOpoL.jpg"
+    },
+    {
+      "titulo": "Sensores e Atuadores",
+      "imagem": "https://m.media-amazon.com/images/I/71Y-wHrQOOL._SL1417_.jpg"
+    },
+    {
+      "titulo": "Programação de Robôs",
+      "imagem": "https://m.media-amazon.com/images/I/61ITqUGErnL._SL1413_.jpg"
+    },
+    {
+      "titulo": "Montagem de Protótipos",
+      "imagem": "https://m.media-amazon.com/images/I/61VlVeZCNbL.jpg"
+    },
+    {
+      "titulo": "Projetos de Robótica",
+      "imagem": "https://m.media-amazon.com/images/I/91YGhn+2CxL._SY425_.jpg"
+    }
+  ],
+  "Filosofia": [
+    {
+      "titulo": "Introdução à Filosofia",
+      "imagem": "https://m.media-amazon.com/images/I/61R-R++xpCL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Filosofia Antiga",
+      "imagem": "https://m.media-amazon.com/images/I/61KqfO9UqvL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Ética",
+      "imagem": "https://m.media-amazon.com/images/I/51XHIP2SvWL.jpg"
+    },
+    {
+      "titulo": "Política e Sociedade",
+      "imagem": "https://m.media-amazon.com/images/I/81qBbY3oIgL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Teoria do Conhecimento",
+      "imagem": "https://m.media-amazon.com/images/I/81wRof7UnxL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Filosofia Contemporânea",
+      "imagem": "https://m.media-amazon.com/images/I/61omYqg22gL._SL1050_.jpg"
+    }
+  ],
+  "Arte": [
+    {
+      "titulo": "História da Arte",
+      "imagem": "https://m.media-amazon.com/images/I/818FC02oMjL._SL1500_.jpg"
+    },
+    {
+      "titulo": "Desenho e Pintura",
+      "imagem": "https://m.media-amazon.com/images/I/61hpz7PMllL._SL1200_.jpg"
+    },
+    {
+      "titulo": "Escultura e Modelagem",
+      "imagem": "https://m.media-amazon.com/images/I/61VSyeZz+5L._SL1418_.jpg"
+    },
+    {
+      "titulo": "Música e Expressão Sonora",
+      "imagem": "https://m.media-amazon.com/images/I/A1wrwVUn73L._SL1500_.jpg"
+    },
+    {
+      "titulo": "Teatro e Expressão Corporal",
+      "imagem": "https://m.media-amazon.com/images/I/61jdx1oce0L._SL1499_.jpg"
+    },
+    {
+      "titulo": "Arte Contemporânea",
+      "imagem": "https://m.media-amazon.com/images/I/91mYAYCfGNL._SL1500_.jpg"
+    }
+  ]
+}

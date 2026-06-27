@@ -1,0 +1,85 @@
+{
+  "alunoId": 1,
+  "nome": "Vitor Almeida",
+  "matricula": "20240001",
+  "anoLetivo": 2026,
+  "periodo": [
+    {
+      "bimestre": 1,
+      "disciplinas": [
+        {
+          "id": "portugues",
+          "nome": "Português",
+          "notas": [8.0, 7.5, 9.0]
+        },
+        {
+          "id": "ingles",
+          "nome": "Inglês",
+          "notas": [8.5, 9.0, 8.0]
+        },
+        {
+          "id": "literatura",
+          "nome": "Literatura",
+          "notas": [9.5, 9.0, 10.0]
+        },
+        {
+          "id": "geografia",
+          "nome": "Geografia",
+          "notas": [7.0, 7.5, 8.0]
+        },
+        {
+          "id": "historia",
+          "nome": "História",
+          "notas": [8.0, 7.0, 8.5]
+        },
+        {
+          "id": "quimica",
+          "nome": "Química",
+          "notas": [6.5, 7.0, 8.0]
+        },
+        {
+          "id": "biologia",
+          "nome": "Biologia",
+          "notas": [8.0, 8.5, 9.0]
+        },
+        {
+          "id": "matematica",
+          "nome": "Matemática",
+          "notas": [7.5, 6.5, 8.0]
+        },
+        {
+          "id": "fisica",
+          "nome": "Física",
+          "notas": [6.0, 7.0, 6.5]
+        },
+        {
+          "id": "robotica",
+          "nome": "Robótica",
+          "notas": [9.0, 8.5, 9.5]
+        },
+        {
+          "id": "filosofia",
+          "nome": "Filosofia",
+          "notas": [8.0, 8.5]
+        },
+        {
+          "id": "arte",
+          "nome": "Arte",
+          "notas": [9.0, 9.5, 8.5]
+        }
+      ]
+    },
+    {
+      "bimestre": 2,
+      "disciplinas": []
+    },
+    {
+      "bimestre": 3,
+      "disciplinas": []
+    },
+    {
+      "bimestre": 4,
+      "disciplinas": []
+    }
+  ]
+}

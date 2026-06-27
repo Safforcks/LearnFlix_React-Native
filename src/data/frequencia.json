@@ -1,0 +1,95 @@
+{
+  "alunoId": 1,
+  "anoLetivo": 2026,
+  "periodo": [
+    {
+      "bimestre": 1,
+      "disciplinas": [
+        {
+          "id": "portugues",
+          "nome": "Português",
+          "totalAulas": 40,
+          "faltas": 3
+        },
+        {
+          "id": "ingles",
+          "nome": "Inglês",
+          "totalAulas": 32,
+          "faltas": 8
+        },
+        {
+          "id": "literatura",
+          "nome": "Literatura",
+          "totalAulas": 24,
+          "faltas": 2
+        },
+        {
+          "id": "geografia",
+          "nome": "Geografia",
+          "totalAulas": 28,
+          "faltas": 8
+        },
+        {
+          "id": "historia",
+          "nome": "História",
+          "totalAulas": 28,
+          "faltas": 1
+        },
+        {
+          "id": "quimica",
+          "nome": "Química",
+          "totalAulas": 36,
+          "faltas": 3
+        },
+        {
+          "id": "biologia",
+          "nome": "Biologia",
+          "totalAulas": 36,
+          "faltas": 1
+        },
+        {
+          "id": "matematica",
+          "nome": "Matemática",
+          "totalAulas": 48,
+          "faltas": 5
+        },
+        {
+          "id": "fisica",
+          "nome": "Física",
+          "totalAulas": 36,
+          "faltas": 4
+        },
+        {
+          "id": "robotica",
+          "nome": "Robótica",
+          "totalAulas": 24,
+          "faltas": 0
+        },
+        {
+          "id": "filosofia",
+          "nome": "Filosofia",
+          "totalAulas": 20,
+          "faltas": 1
+        },
+        {
+          "id": "arte",
+          "nome": "Arte",
+          "totalAulas": 24,
+          "faltas": 1
+        }
+      ]
+    },
+    {
+      "bimestre": 2,
+      "disciplinas": []
+    },
+    {
+      "bimestre": 3,
+      "disciplinas": []
+    },
+    {
+      "bimestre": 4,
+      "disciplinas": []
+    }
+  ]
+}

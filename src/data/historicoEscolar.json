@@ -1,0 +1,223 @@
+{
+  "alunoId": 1,
+  "nome": "Vitor Almeida",
+  "matricula": "20240001",
+  "nivelEnsino": "Ensino Médio (EM)",
+  "situacaoAtual": "Cursando",
+  "historico": [
+    {
+      "anoLetivo": 2024,
+      "serie": "1º ano do EM",
+      "turma": "1º A",
+      "dataInicio": "2024-02-05",
+      "dataFim": "2024-12-18",
+      "statusPeriodo": "Concluído",
+      "periodoFechado": true,
+      "resultadoFinal": "Aprovado",
+      "disciplinas": [
+        {
+          "id": "portugues",
+          "nome": "Português",
+          "mediaFinal": 8.1,
+          "cargaHoraria": 160,
+          "frequenciaPercentual": 94.4
+        },
+        {
+          "id": "ingles",
+          "nome": "Inglês",
+          "mediaFinal": 7.9,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 95.8
+        },
+        {
+          "id": "literatura",
+          "nome": "Literatura",
+          "mediaFinal": 8.5,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 93.8
+        },
+        {
+          "id": "geografia",
+          "nome": "Geografia",
+          "mediaFinal": 7.6,
+          "cargaHoraria": 100,
+          "frequenciaPercentual": 94.0
+        },
+        {
+          "id": "historia",
+          "nome": "História",
+          "mediaFinal": 7.8,
+          "cargaHoraria": 100,
+          "frequenciaPercentual": 95.0
+        },
+        {
+          "id": "quimica",
+          "nome": "Química",
+          "mediaFinal": 7.2,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 91.7
+        },
+        {
+          "id": "biologia",
+          "nome": "Biologia",
+          "mediaFinal": 8.0,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 95.0
+        },
+        {
+          "id": "matematica",
+          "nome": "Matemática",
+          "mediaFinal": 7.0,
+          "cargaHoraria": 160,
+          "frequenciaPercentual": 90.6
+        },
+        {
+          "id": "fisica",
+          "nome": "Física",
+          "mediaFinal": 6.9,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 89.2
+        },
+        {
+          "id": "robotica",
+          "nome": "Robótica",
+          "mediaFinal": 8.8,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 97.5
+        },
+        {
+          "id": "filosofia",
+          "nome": "Filosofia",
+          "mediaFinal": 8.2,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 96.3
+        },
+        {
+          "id": "arte",
+          "nome": "Arte",
+          "mediaFinal": 8.6,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 97.5
+        }
+      ]
+    },
+    {
+      "anoLetivo": 2025,
+      "serie": "2º ano do EM",
+      "turma": "2º A",
+      "dataInicio": "2025-02-03",
+      "dataFim": "2025-12-19",
+      "statusPeriodo": "Concluído",
+      "periodoFechado": true,
+      "resultadoFinal": "Aprovado",
+      "disciplinas": [
+        {
+          "id": "portugues",
+          "nome": "Português",
+          "mediaFinal": 8.3,
+          "cargaHoraria": 160,
+          "frequenciaPercentual": 95.0
+        },
+        {
+          "id": "ingles",
+          "nome": "Inglês",
+          "mediaFinal": 8.1,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 96.7
+        },
+        {
+          "id": "literatura",
+          "nome": "Literatura",
+          "mediaFinal": 8.9,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 95.0
+        },
+        {
+          "id": "geografia",
+          "nome": "Geografia",
+          "mediaFinal": 7.8,
+          "cargaHoraria": 100,
+          "frequenciaPercentual": 94.0
+        },
+        {
+          "id": "historia",
+          "nome": "História",
+          "mediaFinal": 8.0,
+          "cargaHoraria": 100,
+          "frequenciaPercentual": 95.0
+        },
+        {
+          "id": "quimica",
+          "nome": "Química",
+          "mediaFinal": 7.4,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 92.5
+        },
+        {
+          "id": "biologia",
+          "nome": "Biologia",
+          "mediaFinal": 8.2,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 96.0
+        },
+        {
+          "id": "matematica",
+          "nome": "Matemática",
+          "mediaFinal": 7.2,
+          "cargaHoraria": 160,
+          "frequenciaPercentual": 91.3
+        },
+        {
+          "id": "fisica",
+          "nome": "Física",
+          "mediaFinal": 7.0,
+          "cargaHoraria": 120,
+          "frequenciaPercentual": 90.0
+        },
+        {
+          "id": "robotica",
+          "nome": "Robótica",
+          "mediaFinal": 9.1,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 98.8
+        },
+        {
+          "id": "filosofia",
+          "nome": "Filosofia",
+          "mediaFinal": 8.4,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 96.3
+        },
+        {
+          "id": "arte",
+          "nome": "Arte",
+          "mediaFinal": 8.7,
+          "cargaHoraria": 80,
+          "frequenciaPercentual": 97.5
+        }
+      ]
+    },
+    {
+      "anoLetivo": 2026,
+      "serie": "3º ano do EM",
+      "turma": "3º A",
+      "dataInicio": "2026-02-02",
+      "statusPeriodo": "Cursando",
+      "periodoFechado": false,
+      "disciplinas": [
+        "portugues",
+        "ingles",
+        "literatura",
+        "geografia",
+        "historia",
+        "quimica",
+        "biologia",
+        "matematica",
+        "fisica",
+        "robotica",
+        "filosofia",
+        "arte"
+      ]
+    }
+  ]
+}
