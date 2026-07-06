@@ -184,6 +184,23 @@ npx expo start --web
 
 ---
 
+## Imagens
+
+<img width="185" height="366" alt="IMG_3025" src="https://github.com/user-attachments/assets/1597a997-abdc-4d87-9447-19105043d981" />
+<img width="185" height="366" alt="IMG_3026" src="https://github.com/user-attachments/assets/3f211da2-235b-49ce-a898-83260bd840c5" />
+<img width="185" height="366" alt="IMG_3027" src="https://github.com/user-attachments/assets/18adb424-3ac9-4eed-85a4-6f58454669c9" />
+<img width="185" height="366" alt="IMG_3028" src="https://github.com/user-attachments/assets/a52af159-930d-48f1-acb6-47b6900aa832" />
+<img width="185" height="366" alt="IMG_3032" src="https://github.com/user-attachments/assets/5cb04e2a-4b13-4489-beef-b03be648c653" />
+<img width="185" height="366" alt="IMG_3031" src="https://github.com/user-attachments/assets/faae09e8-7a76-4f09-8f0b-11ab822c0507" />
+<img width="185" height="366" alt="IMG_3033" src="https://github.com/user-attachments/assets/237828af-a16e-484d-9991-24911b25536f" />
+<img width="185" height="366" alt="IMG_3029" src="https://github.com/user-attachments/assets/d4e632a0-0114-44c8-8296-fa19a928fb42" />
+<img width="185" height="366" alt="IMG_3030" src="https://github.com/user-attachments/assets/795c4e08-6100-4491-a80e-462c39564c64" />
+
+
+
+
+---
+
 ## Autor
 
 **Rainer Sacks De Almeida Caram Jaime**
