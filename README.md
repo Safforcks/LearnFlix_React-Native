@@ -1,4 +1,4 @@
-# LearnFlix
+# LearnFlix - 24/06/2026
 
 > Aplicativo mobile educacional desenvolvido com React Native, Expo e Firebase para centralizar informações acadêmicas em uma única plataforma.
 
